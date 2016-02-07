@@ -1,2 +1,2 @@
 # ODAP
-Online Data Acquisition Project
+Online Data Acquisition Platform
